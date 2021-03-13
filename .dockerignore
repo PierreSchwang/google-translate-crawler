@@ -1,0 +1,6 @@
+dist/
+.idea/
+node_modules/
+.gitignore
+package-lock.json
+pnpm-lock.yaml
